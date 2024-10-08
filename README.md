@@ -4,8 +4,6 @@ Una lista de increíbles recursos de código abierto y artículos para administr
 ## Contribuir
 Por favor lee [CONTRIBUTING](./CONTRIBUTING.md) si quieres añadir algún enlace, artículo, ...
 
-## Table of Contents
-
 ## Artículos
 
 *Backups.*
